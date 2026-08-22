@@ -470,7 +470,7 @@ a{
   .hero-content h1 { font-size: 2rem; }
   .nav-links { display: none; } /* Simplified for template focus */
   .navbar {
-    padding-top: 60px;
+    padding-top: 20px;
   }
   .nav-btn{
 margin-left: 15px;
